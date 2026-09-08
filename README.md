@@ -37,7 +37,7 @@ The system uses **ultrasonic sensors** and an **Arduino Mega** to dynamically ad
 - Improve ESP32-CAM synchronization for real‑time monitoring.
 
 ## Project Photo
-![Smart Traffic Intersection](project_photo.jpeg)
+![Smart Traffic Intersection]("C:\Users\praja\Downloads\Smart Traffic Management Project (2).jpeg")
 
 ---
 
