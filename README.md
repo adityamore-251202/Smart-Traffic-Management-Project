@@ -44,5 +44,5 @@ The system uses **ultrasonic sensors** and an **Arduino Mega** to dynamically ad
 ### Author
 **Aditya More**  
 Aspiring Data Analyst / BI Analyst  
-[LinkedIn Profile](https://www.linkedin.com/in/adityamore251202) | [GitHub Profile](https://github.com/adityamore-251202)
+[LinkedIn Profile](https://www.linkedin.com/in/aditya-more-71a871334/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BmpZRkA6CTBmb3rEKQwG5gA%3D%3D) | [GitHub Profile](https://github.com/adityamore-251202)
 
