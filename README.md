@@ -13,7 +13,7 @@ The system uses **ultrasonic sensors** and an **Arduino Mega** to dynamically ad
 - When vehicles are detected by the sensors, the system measures traffic density.
 - The Arduino Mega increases the green signal timing for the road with higher traffic density.
 - An **ESP32-CAM** was integrated to help traffic police visualize traffic conditions in real time.  
-  - Synchronization challenges prevented full implementation, but the concept was tested.
+- Synchronization challenges prevented full implementation, but the concept was tested.
 
 ## Tools & Technologies
 - **Arduino Mega** (traffic signal control logic)
