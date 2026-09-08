@@ -36,9 +36,6 @@ The system uses **ultrasonic sensors** and an **Arduino Mega** to dynamically ad
 - Build Power BI dashboards for traffic visualization.
 - Improve ESP32-CAM synchronization for real‑time monitoring.
 
-## Project Photo
-![Smart Traffic Intersection]("C:\Users\praja\Downloads\Smart Traffic Management Project (2).jpeg")
-
 ---
 
 ### Author
