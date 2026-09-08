@@ -1,3 +1,5 @@
+<img width="4032" height="3024" alt="Smart Traffic Management Project (2)" src="https://github.com/user-attachments/assets/88dea465-33ad-4168-861b-e8cf65504213" />
+<img width="3120" height="4160" alt="Smart Traffic Management Project" src="https://github.com/user-attachments/assets/74582ca5-d4f3-4bec-b517-03b3b447dc01" />
 # Smart Traffic Intersection System 🚦
 
 ## Overview
